@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -74,7 +74,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "A custom open-source game engine on Python and Pygame, it's written in pure Python! It's easy and fast!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1092,7 +1092,7 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "meta_descr": "",
+        "meta_descr": "A custom open-source game engine on Python and Pygame, it's written in pure Python! It's easy and fast!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
