@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2023-12-16T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
+categories: ["Test", "Blog", "Example"]
 author: "Dima Marhitych"
 tags: ["nextjs", "tailwind"]
 draft: false

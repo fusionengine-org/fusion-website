@@ -3,7 +3,7 @@
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo_darkmode = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "150px"
@@ -53,7 +53,7 @@ show_categories = true
 keywords = ["Python", "Game Engine"]
 description = "A Python Game Engine"
 author = "fusion.engine"
-image = "images/logo-old.png"
+image = "images/logo-darkmode.png"
 
 
 # site verifications
