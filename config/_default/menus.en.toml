@@ -1,0 +1,51 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Github"
+url = "https://github.com/dimkauzh/fusion-engine"
+weight = 2
+
+
+[[main]]
+name = "PyPi"
+url = "https://pypi.org/project/fusion-engine/"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 5
+
+# footer menu
+[[footer]]
+name = "Github"
+url = "https://github.com/dimkauzh/fusion-engine"
+weight = 1
+
+
+[[footer]]
+name = "PyPi"
+url = "https://pypi.org/project/fusion-engine/"
+weight = 2
+
+[[footer]]
+name = "Blog"
+url = "blog/"
+weight = 3
+
+[[footer]]
+name = "About"
+url = "about/"
+weight = 4
+
