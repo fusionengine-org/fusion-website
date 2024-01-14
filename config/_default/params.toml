@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Theme by [Zeon Studio](https://zeon.studio). Developed by Fusion Engine."
+copyright = "Developed by Fusion Engine. Theme by [Zeon Studio](https://zeon.studio)."
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -51,7 +51,7 @@ show_categories = true
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Python", "Game Engine"]
-description = "A Python Game Engine"
+description = "A custom open-source game engine on Python and Pygame, it is written in pure Python! It is easy and fast!"
 author = "fusion.engine"
 image = "images/logo-darkmode.png"
 
