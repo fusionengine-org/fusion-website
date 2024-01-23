@@ -50,8 +50,8 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Python", "Game Engine"]
-description = "A custom open-source game engine on Python and Pygame, it is written in pure Python! It is easy and fast!"
+keywords = ["OpenGL", "Python", "Game Engine"]
+description = "A custom open-source game engine on OpenGL and Python, it’s written in pure Python! It’s easy and fast!"
 author = "fusion.engine"
 image = "images/logo-darkmode.png"
 

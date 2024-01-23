@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Fusion Engine"
-  content: "A custom open-source game engine on Python and Pygame, it's written in pure Python and Pygame. Its focused to be easy and powerful."
+  content: "A custom open-source game engine on OpenGL and Python, it’s written in pure Python! It’s easy and fast!"
   image: "/images/screenshot.png"
   button:
     enable: true
@@ -18,7 +18,8 @@ features:
       - "Really easy to use"
       - "Lots of features"
       - "Really fast"
-      - "Easy to integrate with Pygame"
+      - "Uses OpenGL"
+      - "Easy to integrate with PyOpenGL"
       - "Entirely open-source"
       - "GPLv3 licence"
 
