@@ -7,14 +7,13 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Github"
-url = "https://github.com/fusionengine-org/fusion-engine"
+name = "Docs"
+url = "https://docs.fusion-engine.tech/"
 weight = 2
 
-
 [[main]]
-name = "PyPi"
-url = "https://pypi.org/project/fusion-engine/"
+name = "Github"
+url = "https://github.com/fusionengine-org/fusion-engine"
 weight = 3
 
 [[main]]
@@ -34,27 +33,37 @@ weight = 6
 
 # footer menu
 [[footer]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Docs"
+url = "https://docs.fusion-engine.tech/"
+weight = 2
+
+[[footer]]
 name = "Github"
 url = "https://github.com/fusionengine-org/fusion-engine"
-weight = 1
+weight = 3
 
 
 [[footer]]
 name = "PyPi"
 url = "https://pypi.org/project/fusion-engine/"
-weight = 2
+weight = 4
 
 [[footer]]
 name = "Discord Server"
 url = "https://discord.com/invite/Smg3CK4ZMc"
-weight = 3
+weight = 5
 
 [[footer]]
 name = "Blog"
 url = "blog/"
-weight = 4
+weight = 6
 
 [[footer]]
 name = "About"
 url = "about/"
-weight = 5
+weight = 7
