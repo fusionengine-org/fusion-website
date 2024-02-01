@@ -13,7 +13,7 @@ weight = 2
 
 [[main]]
 name = "Github"
-url = "https://github.com/fusionengine-org/fusion-engine"
+url = "https://github.com/fusionengine-org/fusion"
 weight = 3
 
 [[main]]
@@ -44,7 +44,7 @@ weight = 2
 
 [[footer]]
 name = "Github"
-url = "https://github.com/fusionengine-org/fusion-engine"
+url = "https://github.com/fusionengine-org/fusion"
 weight = 3
 
 
